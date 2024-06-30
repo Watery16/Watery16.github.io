@@ -9,6 +9,10 @@ redirect_from:
 
 I am a third year undergraduate student from Renmin University of China[Department of Physics]. My previous research experiments are based on Experimental Quantum Optics. My research interest includes cold atoms system, Trapped Ion system, Quantum Computing, and photonics.
 
+I am fortunate to be advised by Professor Xiang Zhang [http://www.phys.ruc.edu.cn/info/1164/1510.htm]and Professor Kuiyi Gao[http://www.phys.ruc.edu.cn/info/1203/1588.htm] in Renmin University of China. Besides, during my summer internship time, I am thankful to be supervised by Professor Maxwell Parsons in University of Washington ECE department[https://people.ece.uw.edu/parsons_max/].
+
+You can find my personal CV here
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
