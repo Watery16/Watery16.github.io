@@ -9,7 +9,7 @@ redirect_from:
 
 I am a third year undergraduate student from Renmin University of China[Department of Physics]. My previous research experiments are based on Experimental Quantum Optics. My research interest includes cold atoms system, Trapped Ion system, Quantum Computing, and photonics.
 
-I am fortunate to be advised by Professor Xiang Zhang [http://www.phys.ruc.edu.cn/info/1164/1510.htm]and Professor Kuiyi Gao[http://www.phys.ruc.edu.cn/info/1203/1588.htm] in Renmin University of China. Besides, during my summer internship time, I am thankful to be supervised by Professor Maxwell Parsons in University of Washington ECE department[https://people.ece.uw.edu/parsons_max/].
+I am fortunate to be advised by Professor Xiang Zhang (http://www.phys.ruc.edu.cn/info/1164/1510.htm)and Professor Kuiyi Gao(http://www.phys.ruc.edu.cn/info/1203/1588.htm) in Renmin University of China. Besides, during my summer internship time, I am thankful to be supervised by Professor Maxwell Parsons in University of Washington ECE department(https://people.ece.uw.edu/parsons_max/).
 
 You can find my personal CV here
 
