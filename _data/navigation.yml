@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Previous Research"
+    url: /previousresearch/
 
   - title: "Talks"
     url: /talks/    
